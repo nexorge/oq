@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to My First Site
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is my first site created by [Quartz](https://quartz.jzhao.xyz/) 
