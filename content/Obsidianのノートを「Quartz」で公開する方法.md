@@ -1,13 +1,15 @@
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
-source: "https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages"
+title: How to publish Obsidian notes with Quartz on GitHub Pages
+source: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages
 author:
   - "[[Fork My Brain]]"
-published:
+published: 2025-09-07
 created: 2025-09-07
-description: "How to publish Obsidian notes with Quartz on GitHub Pages - Fork My Brain"
+description: How to publish Obsidian notes with Quartz on GitHub Pages - Fork My Brain
 tags:
-  - "clippings"
+  - Quartz
+  - VSCode
+  - GitHub
 ---
 On this page, I describe how I publish [Plain text](https://notes.nicolevanderhoeven.com/Plain+text) notes online using:
 
