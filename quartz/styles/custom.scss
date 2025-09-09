@@ -1,3 +1,43 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+// === Final Code Block Style (for your specific base.scss) ===
+
+// --- 色の変数を定義 ---
+:root {
+  --code-bg: #181a1b;               // 背景色
+  --code-border-start: #be94ff;     // グラデーション開始色
+  --code-border-end: #0a87ee;       // グラデーション終了色
+  --code-text: #e8e6e3;              // 文字色
+  --code-line-number: #6b6b77;       // 行番号の色
+}
+
+// --- コードブロックのスタイルを上書き ---
+// `rehype-pretty-code`が出力するfigureタグを直接指定
+figure[data-rehype-pretty-code-figure] {
+  background-color: var(--code-bg) !important;
+  border-radius: 8px;
+  border: 1px solid;
+  // ボーダーにグラデーションを適用
+  border-image-slice: 1;
+  border-image-source: linear-gradient(to bottom right, var(--code-border-start), var(--code-border-end));
+  margin: 1.5em 0; // 上下のマージンを調整
+  overflow: hidden; // 子要素がはみ出ないように
+
+  // preタグのデフォルトの枠線と背景を無効化
+  pre {
+    border: none !important;
+    background-color: transparent !important;
+    padding: 1.2em 1em !important; // 内側の余白を調整
+  }
+
+  // codeタグの文字色を指定
+  code {
+    color: var(--code-text);
+  }
+
+  // 行番号の色を上書き
+  [data-line]::before {
+    color: var(--code-line-number) !important;
+  }
+}
