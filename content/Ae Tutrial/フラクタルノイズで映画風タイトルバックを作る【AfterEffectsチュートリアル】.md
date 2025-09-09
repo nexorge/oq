@@ -1,4 +1,11 @@
+---
+title: フラクタルノイズで映画風タイトルバックを作る【AfterEffectsチュートリアル】
+tags:
+  - Ae
+published: 2025-09-09
+---
 [フラクタルノイズで映画風タイトルバックを作る！【AfterEffectsチュートリアル】](https://www.youtube.com/watch?v=5o6FBZk7BgE)
+
 
 
 手順
