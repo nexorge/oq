@@ -12,6 +12,11 @@ published: 2025-09-08
 > ``` python
 >  print(hello world)
 > ```
+> >[!NOTE]
+> > Contents
+> > ``` python
+> >  print(hello world)
+> > ```
 
 > [!example] Title
 > Contents 
