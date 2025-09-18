@@ -1,5 +1,5 @@
 ---
-title: How to create cinematic animation with Maya x UE5
+title: How to create cinematic animation
 tags:
   - UE
   - Maya
