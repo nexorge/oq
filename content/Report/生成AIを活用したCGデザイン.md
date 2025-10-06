@@ -1,7 +1,7 @@
 ---
 title: 生成AIを活用したCGデザイン
 date created: Thursday, October 2nd 2025, 4:08:29 pm
-date modified: Tuesday, October 7th 2025, 7:36:42 am
+date modified: Tuesday, October 7th 2025, 7:40:07 am
 ---
 ## **第一章　序論**
 

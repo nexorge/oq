@@ -6,6 +6,8 @@ tags:
   - Animation
 published: 2025-09-08
 source:
+date created: Tuesday, October 7th 2025, 7:39:45 am
+date modified: Tuesday, October 7th 2025, 7:44:30 am
 ---
 ## 意義
 - Mayaで制作したアニメーションをUEでレンダリングを行う
@@ -58,4 +60,4 @@ source:
 > - 手順１
 > - 手順２
 >> [!tip] Tips
->> - あーだこーだすると云々
+>> - 制作中
